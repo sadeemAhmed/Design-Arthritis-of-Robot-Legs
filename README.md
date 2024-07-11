@@ -47,10 +47,10 @@
    
 
 7. **Add "Logo Screen" and "Lighting" Folders**:
-    - Create a folder named `logo screen` that contains an `RS camera`.
-    - Create a folder named `lighting` that contains an `RS dome light`.
 
-    
+    - Create a folder named `Logo Screen` to organize elements related to scene capturing and setup. Inside this folder, add an `RS Camera` to manage camera settings and viewpoints effectively.
+    - Create a folder named `Lighting` to organize lighting elements within the scene. Inside this folder, add an `RS Dome Light` to ensure proper illumination and ambiance.
+
 
 8. **Add Null Object in Each Leg**:
     - Add a null object to each leg, labeling them as `Right` and `Left`.
@@ -73,7 +73,10 @@
 To see a video demonstration of the steps and the final project, click [here](#).
 
 
-https://github.com/user-attachments/assets/7a9730d0-6cec-4996-b1af-12193d46e9e0
+
+https://github.com/user-attachments/assets/5ae6b380-d317-4617-9f16-f920561a2dd4
+
+
 
 
 ---
