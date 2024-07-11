@@ -70,7 +70,7 @@
  
 ## Video Demonstration 🎥
 
-To see a video demonstration of the steps and the final project, click [here](#).
+To see a video demonstration of the steps and the final project.
 
 
 
