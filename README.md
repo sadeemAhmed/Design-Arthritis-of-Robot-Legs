@@ -1,7 +1,3 @@
-Here is the updated README file with the specified change for including the file name `task1.c4c`:
-
----
-
 # TASK 1: Design Arthritis of Robot Legs
 
 ## Table of Contents⚙️
