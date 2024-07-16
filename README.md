@@ -8,7 +8,15 @@
 - [Video Demonstration](#video-demonstration)
 
 ## Project Description📝
+The "Design Arthritis of Robot Legs" project is a comprehensive exercise in simulating the mechanical structure and movement of robotic legs affected by arthritis using Cinema 4D. Arthritis in robotics refers to the introduction of mechanical constraints and wear that simulate the effects of arthritis in biological joints, affecting the range and fluidity of movement.
 
+This project aims to:
+
+- Create a realistic model of a robotic leg structure.
+- Implement joint constraints and movement limitations to simulate arthritis.
+- Use advanced tools and techniques in Cinema 4D to enhance the realism of the simulation.
+- Provide a step-by-step guide to facilitate the design process for beginners and advanced users alike.
+- The following steps guide you through setting up your environment, creating and naming the project, and designing the robotic leg with specified constraints and enhancements.
 
 ## Technologies Used 🔧
 - **Maxon Cinema 4D**: A powerful 3D modeling, animation, and rendering application used for creating the robot leg design.
