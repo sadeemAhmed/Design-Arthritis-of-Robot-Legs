@@ -68,7 +68,8 @@ This project aims to:
 9. **Add IK-Spline to Each Joint**:
     - Add the tool named `IK-spline` to each joint to improve the movement of each leg.
 
-    
+    ![Image 450617c9](https://github.com/user-attachments/assets/a72869a1-aae9-45f1-9ee0-9340aa181e95)
+
 
 ## File Structure 🏗️
 
