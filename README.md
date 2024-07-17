@@ -31,7 +31,8 @@ This project aims to:
 2. **Download Cinema 4D**:
     - After creating your account, download Cinema 4D from the Maxon website.
 
-   
+   ![Image 6529227c](https://github.com/user-attachments/assets/800eb160-9d20-4e5a-8ab6-e37ed4045a6f)
+
 
 3. **Create a New Project**:
     - Open Cinema 4D and create a new project named `task1.c4d`.
