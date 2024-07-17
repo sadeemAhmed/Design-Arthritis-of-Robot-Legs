@@ -25,13 +25,13 @@ This project aims to:
 
 1. **Create an Account in Maxon**:
     - Go to the Maxon website and create a new account.
-
-   
+ ![Image b7df5c5b](https://github.com/user-attachments/assets/f5dbd21c-ec8c-4574-b7a2-fbfe35932e6c)
 
 2. **Download Cinema 4D**:
     - After creating your account, download Cinema 4D from the Maxon website.
 
-   ![Image 6529227c](https://github.com/user-attachments/assets/800eb160-9d20-4e5a-8ab6-e37ed4045a6f)
+  
+![Image 6529227c](https://github.com/user-attachments/assets/800eb160-9d20-4e5a-8ab6-e37ed4045a6f)
 
 
 3. **Create a New Project**:
@@ -41,14 +41,15 @@ This project aims to:
 
 4. **Begin Designing the Arthritis Mechanism**:
     - Use the tools and features in Cinema 4D to start designing the arthritis of robot legs.
-
+ ![Image a69120e8](https://github.com/user-attachments/assets/adeb8881-bb97-4d10-b33e-1453f34b468c)
     
 
 5. **Use Leg Structure**:
     - In Cinema 4D, go to `Character > Skinning > Joint` to add joints to the leg structure.
-    - Add four main joints: `Foot`, `Ankle`, `Knee`, and `Thigh`.
+  - Add four main joints: `Foot`, `Ankle`, `Knee`, and `Thigh`.
 
-    
+   ![Image fa2a0854](https://github.com/user-attachments/assets/95ba9bdf-043f-4826-aed7-6c13a8155067)
+
 
 6. **Add Plane Tool to Set as Floor**:
     - Use the Plane tool to create a floor at a 0-degree angle and name it `guide`. This will act as the ground for your robot leg design.
